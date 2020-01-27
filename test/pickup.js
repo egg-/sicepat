@@ -26,7 +26,7 @@ describe('REQUEST PICKUP', function () {
 
   var parcel = new Sicepat.Parcel({
     receipt_number: receiptNo,
-    origin: 'JKT',
+    origin: 'CGK10200',
     type: 'REG',
     category: 'normal',
     content: 'Cosmetic',
