@@ -48,6 +48,7 @@ describe('REQUEST PICKUP', function () {
     recipient_district: 'receipt_district',
     recipient_zip: 'receipt_zip',
     recipient_phone: 'receipt_phone',
+    recipient_email: 'abc@def.com',
     destination_code: 'CGK10000'
   })
 

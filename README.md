@@ -47,6 +47,7 @@ var parcel = new Sicepat.Parcel({
   recipient_district: 'receipt_district',
   recipient_zip: 'receipt_zip',
   recipient_phone: 'receipt_phone',
+  recipient_email: 'receipt_email', // optional
   destination_code: 'CGK10000'
 })
 
