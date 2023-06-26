@@ -1,3 +1,6 @@
 test/
 .travis.yml
 config.json.enc
+config.json
+node_modules
+Gruntfile.js
